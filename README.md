@@ -19,6 +19,3 @@ Bu bot foydalanuvchilarga istalgan yil uchun kalendarni chiqarib beradi. Yil raq
 3. Botni ishga tushirish:
    ```bash
    python main.py
-   
-
-  
