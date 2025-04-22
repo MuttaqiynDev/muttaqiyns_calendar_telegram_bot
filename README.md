@@ -15,6 +15,10 @@ Bu bot foydalanuvchilarga istalgan yil uchun kalendarni chiqarib beradi. Yil raq
    ```bash
    git clone https://github.com/MuttaqiynDev/muttaqiyns_calendar_telegram_bot.git
    cd calendar-bot
-3. Botni ishga tushiring.
-  ```bash
-  python main.py
+   
+3. Botni ishga tushirish:
+   ```bash
+   python main.py
+   
+
+  
