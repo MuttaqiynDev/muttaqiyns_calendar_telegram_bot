@@ -39,8 +39,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Muttaqiyndev/calendar-bot.git
-   cd calendar-bot
+   git clone https://github.com/Muttaqiyndev/muttaqiyns_calendar_telegram_bot.git
+   cd muttaqiyns_calendar_telegram_bot
    ```
 
 2. **Create a virtual environment (optional but recommended):**
